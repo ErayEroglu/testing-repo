@@ -7,11 +7,11 @@ dummy repo to test a project
 
 Elements in beautiful READMEs include, but are not limited to:
 
-images, screenshots, GIFs, text formatting, etc.
+Images, screenshots, GIFs, text formatting, etc.
    
 ## Examples
 
-- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installation instructions.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
@@ -93,7 +93,7 @@ images, screenshots, GIFs, text formatting, etc.
 ## Architecture Examples
 A good ARCHITECTURE.md file helps developers understand how and where to make changes, whether they are new to a project or not.
 
-Diagrams, source code maps, and discussing invariants and design decisions is essential.
+Diagrams, source code maps, and discussing invariants and design decisions are essential.
 
 This can also be a dedicated section of your README.md files.
 - [esbuild](https://github.com/evanw/esbuild/blob/main/docs/architecture.md) - Great use of graphics for visualisations and project structure. Includes a list of important principles for the project.
@@ -139,17 +139,17 @@ This can also be a dedicated section of your README.md files.
 
 ## Creating GIFs
 
-Embedding an animated gif in your README quickly demonstrates what your project does and catches the reader's eye. Here are a few programs that can help you quickly create gifs for your project:
+Embedding an animated GIF in your README quickly demonstrates what your project does and catches the reader's eye. Here are a few programs that can help you quickly create GIFs for your project:
 
-- [Gifski](https://github.com/sindresorhus/Gifski#readme) - **FREE** - More vivid colors than the rest, but still keep size low.
-- [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, slightly annoying UX.
-- [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features.
+- [Gifski](https://github.com/sindresorhus/Gifski#readme) - **FREE** - More vivid colors than the rest, but still keeps size low.
+- [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, with a slightly annoying UX.
+- [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, with more features.
 - [Peek](https://github.com/phw/peek#readme) - **FREE** - Simple and easy to use for Linux users.
 - [Recordit](https://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to Recordit.
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, customizable UI and easily editable GIFs, easy to get started.
-- [terminalizer](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated gif images or share a web player.
-- [ttystudio](https://github.com/chjj/ttystudio#readme) - **FREE** - For commandline tools, a terminal-to-gif recorder minus the headaches.
-- [vhs](https://github.com/charmbracelet/vhs) - **FREE** - Generate beautiful terminal gifs with a simple scripting language
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, with a customizable UI and easily editable GIFs, easy to get started.
+- [terminalizer](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated GIF images or share a web player.
+- [ttystudio](https://github.com/chjj/ttystudio#readme) - **FREE** - For command-line tools, a terminal-to-GIF recorder minus the headaches.
+- [vhs](https://github.com/charmbracelet/vhs) - **FREE** - Generate beautiful terminal GIFs with a simple scripting language
 
 ## Get Feedback
 
